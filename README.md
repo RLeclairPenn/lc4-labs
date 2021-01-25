@@ -1,6 +1,6 @@
 This is the repository for the labs in [CIS 571: Computer Organization & Design](http://cis.upenn.edu/~cis571/).
 
-# Running the testbench on your local machine
+# Running the testbench on your local machine + test
 
 It is possible to run the various test cases on your local machine using an alternative Verilog simulator called [Icarus Verilog](http://iverilog.icarus.com) or `iverilog`. `iverilog` can generate a trace of your design in a `.vcd` file that you can then view in another program called [GTKWave](http://gtkwave.sourceforge.net), which is equivalent to the Vivado debugger. By running on your _local_ machine, you get potentially faster performance and avoid lag and connectivity issues to the biglab machines.
 
